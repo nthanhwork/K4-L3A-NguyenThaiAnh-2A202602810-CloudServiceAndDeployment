@@ -4,3 +4,21 @@
 
 .git
 .gitignore
+.env
+.env.*
+.venv
+__pycache__
+*.pyc
+*.pyo
+*.pyo
+*.pyd
+DEPLOYMENT.md
+.pytest_cache
+tests
+screenshots
+exercises.md
+README.md
+CHECKPOINTS.md
+RUBRIC.md
+RULES.md
+SUBMISSION.md
